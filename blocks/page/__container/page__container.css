@@ -1,4 +1,6 @@
 .page__container {
   max-width: 1280px;
   margin: 0 auto;
+
+  overflow: hidden; /* https://stackoverflow.com/questions/1762539/margin-on-child-element-moves-parent-element */
 }

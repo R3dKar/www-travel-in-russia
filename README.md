@@ -9,5 +9,5 @@
  - `normalize.css`
 
 # Варианты запуска
- - [GitHub Pages]()
+ - [GitHub Pages](https://r3dkar.github.io/www-travel-in-russia/)
  - Скачать проект, открыть `index.html`

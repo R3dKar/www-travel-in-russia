@@ -5,3 +5,15 @@
   grid-template-columns: 1fr repeat(2, min-content);
   column-gap: 18px;
 }
+
+@media screen and (max-width: 1024px) {
+  .header {
+    margin: 28px 24px 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    margin: 16px 16px 0;
+  }
+}

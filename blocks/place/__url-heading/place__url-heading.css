@@ -1,4 +1,6 @@
 .place__url-heading {
+  margin: 0;
+
   color: #aaa;
 
   line-height: 12px;
